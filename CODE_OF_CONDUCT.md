@@ -13,7 +13,7 @@ We invite all those who participate in Flathub to help us create safe and positi
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuse of power that exist in society.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
@@ -21,7 +21,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviors are expected and requested of all community members:
 
-*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+*   Participate actively and in good faith. In doing so, you contribute to the health and longevity of this community.
 *   Exercise consideration and respect in your speech and actions.
 *   Attempt collaboration before conflict.
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
@@ -56,7 +56,8 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible:
 
-< To Be Determined>
+- At events, there will always be an on-call contact for the event itself. This information will be posted along with any other event details.
+- Outside of events, there is a reporting address coc@flathub.org which is handled by a group of volunteers. 
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -73,7 +74,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-< To Be Determined>
+Send an email to coc@flathub.org. 
 
 ## 10. License and attribution
 
