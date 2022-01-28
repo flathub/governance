@@ -10,7 +10,7 @@ Flathub Community culture is essential to the success to the project's success. 
 Distributed asynchronous ownership, collaboration, communication, and decision making are the cornerstones of our global community.
 
 ## Community over product or company
-The Flathub service and community is aiming for the benefit of all its members and users everywhere. The Flathub community may include members from specific products or companies, but also welcoming everyone else. This will also influence the content on [Flathub.org](https://flathub.org/) that do and will include apps that are open source and proprietary software.
+The Flathub service and community is aiming for the benefit of all its members and users everywhere. The Flathub community may include members from specific products or companies, but are also welcoming everyone else. This will also influence the content on [Flathub.org](https://flathub.org/) that do and will include apps that range from open source to proprietary software.
 
 
 - Openness
