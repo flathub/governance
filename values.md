@@ -12,7 +12,6 @@ Distributed asynchronous ownership, collaboration, communication, and decision m
 ## Community over product or company
 The Flathub service and community is aiming for the benefit of all its members and users everywhere. The Flathub community may include members from specific products or companies, but are also welcoming everyone else. This will also influence the content on [Flathub.org](https://flathub.org/) that do and will include apps that range from open source to proprietary software.
 
-
 ## Openness over exclusivity
 Transparency, Inclusivity, Adaptability, Collaboration, and Community.
 
