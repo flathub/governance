@@ -16,14 +16,15 @@ The Flathub service and community is aiming for the benefit of all its members a
 ## Openness over exclusivity
 Transparency, Inclusivity, Adaptability, Collaboration, and Community.
 
+## Respect for people
+Respect for people starts with a passion for serving the community and society. People are always in the center--people in every function across the community as well as partners and users. We aim to constantly develop and improve on how we work, both individually and together.
+
+## Continuous improvement
+Without continuous improvement the project will stagnate and eventually deteriorate. We will challenge status quo, use systematic problem solving, and appreciate teamwork.
+
 - Diversity and inclusion
-- Continuous improvement
-
-
-
-
 
 
 ## License and attributions
 These Community Values is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-Portions of text derived from the [Kubernetes Community Values](https://github.com/kubernetes/community/blob/master/values.md)
+Portions of text derived from the [Kubernetes Community Values](https://github.com/kubernetes/community/blob/master/values.md) and [The Open Organization Definition](https://github.com/open-organization/open-org-definition/blob/master/open-organization-definition.md).
