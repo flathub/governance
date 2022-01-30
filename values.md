@@ -4,6 +4,8 @@ title: "Flathub Community Values"
 
 # Flathub Community Values
 
+NOTE: This document is WIP and a draft
+
 Flathub Community culture is essential to the success to the project's success. The following values have been identified to guide the community and project in ongoing and future decisions and work.
 
 ## Global community
