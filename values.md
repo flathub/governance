@@ -12,7 +12,7 @@ Distributed asynchronous ownership, collaboration, communication, and decision m
 
 ## Community over product or company
 
-The Flathub service and community is aiming for the benefit of all its members and users everywhere. The Flathub community may include members from specific products or companies, but are also welcoming everyone else. This will also influence the content on [Flathub.org](https://flathub.org/) that do and will include apps that range from open source to proprietary software.
+The Flathub service and community is aiming for the benefit of all its members and users everywhere. The Flathub community may include members from specific products or companies, but are also welcoming everyone else. This will influence the content on [Flathub.org](https://flathub.org/) that include apps spanning from open source to proprietary software.
 
 ## Openness over exclusivity
 
@@ -34,5 +34,5 @@ Without continuous improvement the project will stagnate and eventually deterior
 
 ## License and attributions
 
-These Community Values is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+These Community Values are distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 Portions of text inspired by the [Kubernetes Community Values](https://github.com/kubernetes/community/blob/master/values.md) and [The Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition/).
